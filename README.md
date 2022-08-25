@@ -1,6 +1,5 @@
-### Hi there, I'm KIRTI!✌️
-
-
+### Hello, Folks!✌️
+<p>My name is <b>Kirti Gupta</b> and I'm a third year engineering student at Guru Tegh Bahadur Institute of Technology (GGSIPU, New Delhi), pursuing a bachelor's degree in Computer Science and Engineering.</p>
 
 <!--
 **Kirti-Gupta12/Kirti-Gupta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
