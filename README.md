@@ -16,7 +16,7 @@
 #### Let's Connect🤝
 
 <div>
-<a href="https://linkedin.com/in/kirti-gupta-a2b68b205/"><img src="https://user-images.githubusercontent.com/87939523/186621238-f844d1dc-b8cf-48de-a1dd-9b24ea6ef945.png" width='30'/></a>&nbsp&nbsp&nbsp&nbsp<a href="mailto:kirtiigupta12@gmail.com"><img src="https://user-images.githubusercontent.com/87939523/186622291-fcc76c9d-7c7f-4b10-a555-e061ef783407.png" width="30"/></a>
+<a href="https://linkedin.com/in/kirti-gupta-a2b68b205/" target="_blank"><img src="https://user-images.githubusercontent.com/87939523/186621238-f844d1dc-b8cf-48de-a1dd-9b24ea6ef945.png" width='30'/></a>&nbsp&nbsp&nbsp&nbsp<a href="mailto:kirtiigupta12@gmail.com"><img src="https://user-images.githubusercontent.com/87939523/186622291-fcc76c9d-7c7f-4b10-a555-e061ef783407.png" width="30"/></a>
 </div>
 <br/>
 
