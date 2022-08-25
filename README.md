@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there, I'm KIRTI GUPTA  <img src= "https://user-images.githubusercontent.com/87939523/186597189-c0c3dadc-f110-4914-8aa5-2b7fca3e7990.gif" width="60" top='0' height="60" align="center"/>
+
+
 
 <!--
 **Kirti-Gupta12/Kirti-Gupta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ ![hi](https://user-images.githubusercontent.com/87939523/186597189-c0c3dadc-f110-4914-8aa5-2b7fca3e7990.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
