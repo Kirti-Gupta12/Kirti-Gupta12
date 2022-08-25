@@ -1,4 +1,4 @@
-# Hi there, I'm KIRTI GUPTA  <img src= "https://user-images.githubusercontent.com/87939523/186597189-c0c3dadc-f110-4914-8aa5-2b7fca3e7990.gif" width="60" top='0' height="60" align="center"/>
+# Hi there, I'm KIRTI! <img src= "https://user-images.githubusercontent.com/87939523/186597189-c0c3dadc-f110-4914-8aa5-2b7fca3e7990.gif" width="60" top='0' height="60" align="center"/>
 
 
 
