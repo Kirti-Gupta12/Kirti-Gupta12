@@ -1,5 +1,9 @@
 ## Hello, Folks!✌️
 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Kirti-Gupta12&style=for-the-badge&color=yellow)
+
 <p>My name is <b>Kirti Gupta</b> and I'm a third year engineering student at Guru Tegh Bahadur Institute of Technology (GGSIPU, New Delhi), pursuing a bachelor's degree in <b>Computer Science and Engineering</b>.</p>
 <br/>
 - 🔭 I’m currently working on a NextJs Project <br/>
