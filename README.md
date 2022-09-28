@@ -1,7 +1,7 @@
 ## Hello, Folks!✌️
 
 
-<p>My name is <b>Kirti Gupta</b> and I'm a third year engineering student at Guru Tegh Bahadur Institute of Technology (GGSIPU, New Delhi), pursuing a bachelor's degree in <b>Computer Science and Engineering</b>.</p>
+<p>My name is <b>Kirti Gupta</b> and I'm a third year engineering student at Gurutegh Bahadur Institute of Technology (GGSIPU, New Delhi), pursuing a bachelor's degree in <b>Computer Science and Engineering</b>.</p>
 <br/>
 
 - 🌱 I’m currently learning <b>Frontend Development skills</b> and <b>Data Structure & Algorithms (C++)</b><br/>
