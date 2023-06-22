@@ -22,5 +22,5 @@
 
 ---
 
-//<img align="left" alt="Kirti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirti-Gupta12&show_icons=true&hide_border=true"/>
+<img align="left" alt="Kirti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kirti-Gupta12&show_icons=true&hide_border=true"/>
 
